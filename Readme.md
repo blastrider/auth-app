@@ -1,4 +1,3 @@
-````markdown
 # Auth-App
 
 ## Description
@@ -74,7 +73,6 @@ Auth-App is a fast authentication application developed in Rust using the Actix-
     "password": "password"
   }
   ```
-````
 
 ### Example `curl` Request
 

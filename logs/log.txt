@@ -1,0 +1,229 @@
+2024-05-29 22:05:14 [INFO] starting 16 workers
+2024-05-29 22:05:14 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:15 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:15 [INFO] starting 16 workers
+2024-05-29 22:05:15 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:15 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:15 [INFO] starting 16 workers
+2024-05-29 22:05:15 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:16 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:16 [INFO] starting 16 workers
+2024-05-29 22:05:16 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:16 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:16 [INFO] starting 16 workers
+2024-05-29 22:05:16 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:17 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:17 [INFO] starting 16 workers
+2024-05-29 22:05:17 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:18 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:18 [INFO] starting 16 workers
+2024-05-29 22:05:18 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:18 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:18 [INFO] starting 16 workers
+2024-05-29 22:05:18 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:19 [INFO] starting 16 workers
+2024-05-29 22:05:19 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:19 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:19 [INFO] starting 16 workers
+2024-05-29 22:05:19 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:20 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:20 [INFO] starting 16 workers
+2024-05-29 22:05:20 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:21 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:21 [INFO] starting 16 workers
+2024-05-29 22:05:21 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:21 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:21 [INFO] starting 16 workers
+2024-05-29 22:05:21 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:22 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:22 [INFO] starting 16 workers
+2024-05-29 22:05:22 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:22 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:22 [INFO] starting 16 workers
+2024-05-29 22:05:22 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:23 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:23 [INFO] starting 16 workers
+2024-05-29 22:05:23 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:24 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:24 [INFO] starting 16 workers
+2024-05-29 22:05:24 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:24 [INFO] starting 16 workers
+2024-05-29 22:05:24 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:25 [INFO] starting 16 workers
+2024-05-29 22:05:25 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:25 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:25 [INFO] accept thread stopped
+2024-05-29 22:05:25 [INFO] shutting down idle worker
+2024-05-29 22:05:26 [INFO] starting 16 workers
+2024-05-29 22:05:26 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:26 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:26 [INFO] starting 16 workers
+2024-05-29 22:05:26 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:27 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:27 [INFO] starting 16 workers
+2024-05-29 22:05:27 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:27 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:27 [INFO] starting 16 workers
+2024-05-29 22:05:27 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:28 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:28 [INFO] starting 16 workers
+2024-05-29 22:05:28 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:28 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:29 [INFO] starting 16 workers
+2024-05-29 22:05:29 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:29 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:29 [INFO] starting 16 workers
+2024-05-29 22:05:29 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:30 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:30 [INFO] starting 16 workers
+2024-05-29 22:05:30 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:30 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:30 [INFO] starting 16 workers
+2024-05-29 22:05:30 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:31 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:31 [INFO] starting 16 workers
+2024-05-29 22:05:31 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:31 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:32 [INFO] starting 16 workers
+2024-05-29 22:05:32 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:32 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:32 [INFO] starting 16 workers
+2024-05-29 22:05:32 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:33 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:33 [INFO] starting 16 workers
+2024-05-29 22:05:33 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:33 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:33 [INFO] starting 16 workers
+2024-05-29 22:05:33 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:34 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:34 [INFO] starting 16 workers
+2024-05-29 22:05:34 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:34 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:35 [INFO] starting 16 workers
+2024-05-29 22:05:35 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:35 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:35 [INFO] starting 16 workers
+2024-05-29 22:05:35 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:36 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:36 [INFO] starting 16 workers
+2024-05-29 22:05:36 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:36 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:36 [INFO] starting 16 workers
+2024-05-29 22:05:36 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:37 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:37 [INFO] starting 16 workers
+2024-05-29 22:05:37 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:37 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:38 [INFO] starting 16 workers
+2024-05-29 22:05:38 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:38 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:38 [INFO] starting 16 workers
+2024-05-29 22:05:38 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:39 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:39 [INFO] starting 16 workers
+2024-05-29 22:05:39 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:39 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:39 [INFO] starting 16 workers
+2024-05-29 22:05:39 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:40 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:40 [INFO] starting 16 workers
+2024-05-29 22:05:40 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:40 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:41 [INFO] starting 16 workers
+2024-05-29 22:05:41 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:41 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:41 [INFO] starting 16 workers
+2024-05-29 22:05:41 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:42 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:42 [INFO] starting 16 workers
+2024-05-29 22:05:42 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:42 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:42 [INFO] starting 16 workers
+2024-05-29 22:05:42 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:43 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:43 [INFO] starting 16 workers
+2024-05-29 22:05:43 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:43 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:44 [INFO] starting 16 workers
+2024-05-29 22:05:44 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:44 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:44 [INFO] starting 16 workers
+2024-05-29 22:05:44 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:45 [INFO] starting 16 workers
+2024-05-29 22:05:45 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:45 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:45 [INFO] starting 16 workers
+2024-05-29 22:05:45 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:46 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:46 [INFO] starting 16 workers
+2024-05-29 22:05:46 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:46 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:47 [INFO] starting 16 workers
+2024-05-29 22:05:47 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:47 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:47 [INFO] starting 16 workers
+2024-05-29 22:05:47 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:48 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:48 [INFO] starting 16 workers
+2024-05-29 22:05:48 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:48 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:48 [INFO] starting 16 workers
+2024-05-29 22:05:48 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:49 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:49 [INFO] starting 16 workers
+2024-05-29 22:05:49 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:50 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:50 [INFO] starting 16 workers
+2024-05-29 22:05:50 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:50 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:50 [INFO] starting 16 workers
+2024-05-29 22:05:50 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:51 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:51 [INFO] starting 16 workers
+2024-05-29 22:05:51 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:51 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:51 [INFO] starting 16 workers
+2024-05-29 22:05:51 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:52 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:52 [INFO] starting 16 workers
+2024-05-29 22:05:52 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:52 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:53 [INFO] starting 16 workers
+2024-05-29 22:05:53 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:53 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:53 [INFO] starting 16 workers
+2024-05-29 22:05:53 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:54 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:54 [INFO] starting 16 workers
+2024-05-29 22:05:54 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:54 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:54 [INFO] starting 16 workers
+2024-05-29 22:05:54 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:55 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:55 [INFO] starting 16 workers
+2024-05-29 22:05:55 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:56 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:56 [INFO] starting 16 workers
+2024-05-29 22:05:56 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:56 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:56 [INFO] starting 16 workers
+2024-05-29 22:05:56 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:57 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:57 [INFO] starting 16 workers
+2024-05-29 22:05:57 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:57 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:57 [INFO] starting 16 workers
+2024-05-29 22:05:57 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:58 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:58 [INFO] starting 16 workers
+2024-05-29 22:05:58 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:59 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:59 [INFO] starting 16 workers
+2024-05-29 22:05:59 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:05:59 [INFO] SIGTERM received; starting graceful shutdown
+2024-05-29 22:05:59 [INFO] starting 16 workers
+2024-05-29 22:05:59 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:06:39 [INFO] starting 16 workers
+2024-05-29 22:06:39 [INFO] Actix runtime found; starting in Actix runtime
+2024-05-29 22:06:55 [ERROR] Failed login attempt for user: admin
+2024-05-29 22:07:04 [INFO] Successful login for user: admin
